@@ -11,19 +11,6 @@
 
 ---
 
-## 📖 Table of Contents
-- [About the Project](#-about-the-project)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [Contact](#-contact)
-
----
-
 ## 💡 About the Project
 **AeroReserve** is a flight booking microservice designed to provide an efficient and scalable booking experience.  
 It integrates with **RabbitMQ** for asynchronous communication and **Nodemailer** for notifications, ensuring smooth and reliable message delivery between services.
